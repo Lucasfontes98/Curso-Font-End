@@ -44,7 +44,7 @@ git checkout -b dev (cria uma branch)
 git checkout master (muda de branch)
 
 ### configurar git flow
-git flow init
+git flow init  
 
 
 
