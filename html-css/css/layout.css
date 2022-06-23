@@ -1,0 +1,133 @@
+*{
+  margin: 0;
+}
+
+body{
+  background-color:#333;
+}
+
+label {
+	margin-bottom: 1rem;
+	font-size: 1.4rem; 
+	font-family: sans-serif;
+	font-weight: bold;
+	color: #66F;
+}
+
+input {
+	padding: 1rem;
+}
+
+[type="text"], [type="email"], textarea, label {
+	display: block;
+	width: 100%;
+}
+
+
+nav {
+  float: left; /*muda a regra de quebra de linha*/
+  width: 29%;
+  background-color: #034589;
+  height: 1974px;
+  border: 1px solid #333;
+  
+}
+
+a {
+  margin-left: 30px;
+  font-size: 50px;
+  text-decoration: none;
+  color: black;
+}
+
+nav h3{
+  margin-left: 30px;
+  font-size: 70px;
+  font-weight: bolder;
+  color: black;
+}
+
+
+a{
+  text-decoration: underline;
+}
+
+
+
+.coluna{
+  display: block;
+  width: 31%;
+  float: left;
+  color: black;
+  padding: 5px;
+  background-color: transparent;
+  color: aliceblue;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bolder;
+}
+
+.coluna-2{
+  width: 100%;
+  height: auto;
+}
+
+.listnao{
+  float: left;
+  overflow: visible;
+  width: 100%;
+}
+
+
+article{
+  background-color:#333;
+  float: left;
+  width: 70%;
+  height: auto;
+}
+
+
+.coluna-100w{
+  width: 100%;
+}
+
+/*mobile first*/
+
+iframe{
+  width: 100%;
+}
+
+/*tablet*/
+@media (max-width: 768px){
+
+  nav{
+    height: 390px;
+  }
+
+  nav,
+  article,
+  body,
+.coluna{
+  width: 100%;
+  min-width: 426px;
+}
+}
+/*smarthphone*/
+@media (max-width:425px){
+  nav{
+    height: 300px;
+  }
+
+  nav,
+  body,
+  article,
+  .coluna{
+    width: 100%;
+    min-width: 400px;
+
+
+  }
+
+}
+
+
+
