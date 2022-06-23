@@ -38,7 +38,7 @@ São ramificações / versões paralelas
 
 -main / master (vai para a produção, quando o projeto é publicado)
 - develop
-- DOD (DIFINITION OF DONE) : Critérios de aceite
+- DOD (DIFINITION OF DONE) : Critérios de aceite ok
 
 
 
