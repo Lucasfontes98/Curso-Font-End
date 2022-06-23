@@ -25,8 +25,21 @@ Informação do Projeto
 - git add *
 - git commit -m "mensagem"
 -  git push (enviar alteraçoes para o reporsitorio)
+- git pull (puxar informaçoes do reporsitorio)
 
 
 ## GitFlow
 
 Fluxo do git
+
+
+### branchs 
+São ramificações / versões paralelas
+
+-main / master (vai para a produção, quando o projeto é publicado)
+- develop
+- DOD (DIFINITION OF DONE) : Critérios de aceite ok
+
+
+
+
