@@ -59,5 +59,5 @@ git merge main
 ### pull request
 mescla de brachs no repositorio
 permite code review
-o repositorio resolve conflitos manualmente 
+o repositorio resolve conflitos manualmente
 
