@@ -27,12 +27,6 @@ Informação do Projeto
 -  git push (enviar alteraçoes para o reporsitorio)
 - git pull (puxar informaçoes do reporsitorio)
 
-
-## GitFlow
-
-Fluxo do git
-
-
 ### branchs 
 São ramificações / versões paralelas
 
@@ -46,6 +40,8 @@ git checkout master (muda de branch)
 ### configurar git flow
 git flow init  
 
+git flow freature start (nome-da-feature)
+
 
 
 
@@ -54,10 +50,13 @@ mescla de branchs
 Voce pode precisar resolver conflitos manualmente
 
 
+
 git merge main
 
 ### pull request
 mescla de brachs no repositorio
 permite code review
-o repositorio resolve conflitos manualmente
+o repositorio resolve conflitos manualmente  
+
+
 
