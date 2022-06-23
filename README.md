@@ -17,10 +17,15 @@ Arquivo B | Versão 1 | Versão 2
 ## Criar uma conta no GitHub
 
 ## Clonar o projeto
+GIT CLONE (LINK DO GITHUB)
 
 ## Commits
 Informação do Projeto
 - Após testado todo seu código
+- git add *
+- git commit -m "mensagem"
+-  git push (enviar alteraçoes para o reporsitorio)
+
 
 ## GitFlow
 
