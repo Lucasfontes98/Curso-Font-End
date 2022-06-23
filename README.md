@@ -40,6 +40,24 @@ São ramificações / versões paralelas
 - develop
 - DOD (DIFINITION OF DONE) : Critérios de aceite ok
 
+git checkout -b dev (cria uma branch)
+git checkout master (muda de branch)
+
+### configurar git flow
+git flow init
 
 
+
+
+### merge
+mescla de branchs
+Voce pode precisar resolver conflitos manualmente
+
+
+git merge main
+
+### pull request
+mescla de brachs no repositorio
+permite code review
+o repositorio resolve conflitos manualmente 
 
