@@ -2,7 +2,7 @@
 #### EBAC
 # GIT
 ## Conceitos de versionamento
-- Histórico
+- Histórico do c
 - Quem alterou
 - O quê alterou
 - Quando alterou
