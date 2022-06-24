@@ -132,3 +132,27 @@ footer small{
     font-size: 80%;
     display: block;
 }
+
+.cognito{
+    width: 100%;    
+    margin: 30px 0px -1px -270px;
+
+}
+
+#tenho-interesse{
+    padding: 0px 469px 0px 115px ;
+   border-top: 50px;
+}
+
+#tenho-interesse h1 {
+    font-size: 2rem;
+}
+
+
+
+.cog-abuse{
+    visibility: hidden !important;
+}
+.cog-branding__powered{
+    visibility: hidden !important;
+}
