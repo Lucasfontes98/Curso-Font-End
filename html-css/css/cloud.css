@@ -1,0 +1,51 @@
+
+body{
+background-color: #333;
+font-size: 62,5%; /*equivalente a 10px= 1 rem*/
+}
+
+.meu-contain{
+    background: white;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1{
+    font-size: 2,4rem;
+}
+
+h2{
+    font-size: 2rem;
+}
+
+h3{
+    font-size: 1,8rem;
+}
+
+h4{
+    font-size: 1,6rem;
+}
+
+
+header {
+
+
+}
+
+section{
+    font-size: 1.5rem;
+}
+
+section article{
+
+
+}
+
+section nav{
+
+}
+
+footer{
+
+}
