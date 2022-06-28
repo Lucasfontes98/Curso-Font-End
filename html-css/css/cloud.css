@@ -17,10 +17,11 @@ body {
 .container {
     display: block;
     float: left;
-    padding: 20px;
     max-width: 100%;
+    width: 100%;
     margin: 0 auto;
     max-width: 1198px;
+
 }
 
 header {
@@ -75,6 +76,10 @@ img {
 }
 
 #tenho-interesse form,
+.cog-form__content,
+.cog-page__navigation,
+.cog-row,
+.cog-body,
 .cognito.c-med .c-forms-form,
 .cognito.c-med .c-forms-form div {
     background-color: #b8c8d6 !important;
@@ -145,6 +150,7 @@ footer {
 footer p {
     color: #ffffff;
     font-size: 1.4rem;
+   
 }
 
 footer small {
@@ -153,9 +159,9 @@ footer small {
 }
 
 .cognito {
-    height: 350px !important;
+    height: 500px !important;
     overflow: hidden !important;
-    width: 100%;
+    padding: 30px;
 }
 
 @media (max-width: 425px) {
@@ -167,5 +173,31 @@ footer small {
     .container {
         padding-left: 1%;
         padding-right: 1%;
+        width: 100%;
     }
+}
+
+#banner{
+    background-image: url(../images/banner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 60vh;
+
+}
+
+.legenda{
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, .6);
+    float: right;
+    margin: 10vh 10vh 0 0 ;
+    width: 30vw;
+}
+
+.legenda h5,
+.legenda h4{
+    color: #254159;
+    line-height: 1.5;
 }
