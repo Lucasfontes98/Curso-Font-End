@@ -58,5 +58,18 @@ mescla de brachs no repositorio
 permite code review
 o repositorio resolve conflitos manualmente  
 
+## briefing
+
+-Criar uma campanha de inbound marketing para divulgar seus serviços da criação de sites, landing pages e e-mail marketing
+-gerar leads qualificados, com real interesse nos serviços oferecidos
+-criar conteudo para post, e-mail marketing, landing page
+-criar formuladrios para captação de e-mails
+-post para redes sociais: texto + foto + url curta
+-incluir hospedagem (servidor web)
+-git - histórico de evolução (commits detalhados)
+
+### URL
+ UNIFORN RESOURSE LOCATOR
+
 
 
