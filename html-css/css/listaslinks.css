@@ -21,9 +21,9 @@ body{
 }
 div{
     background-color:#DCDCDC;
-    width: 85%;
+    width: 70%;
     float: right;
-    height: 25vh;
+    height: 33vh;
    }
 
 footer {background-color: #034589;
@@ -84,3 +84,70 @@ nav{
     ul{
         padding: 10px;
     }
+
+    @media(max-width:1440px){
+
+        footer{
+          width: 100%;
+        }
+
+        nav{
+            width: 180px;
+        }
+      
+      .repetir{
+        width: 100%;
+        height: 300px;
+      }
+      
+      
+      
+      .coluna{
+        min-width: 769px;
+        width: 100%;
+      }
+      }
+      
+      
+      /*tablet*/
+      @media (max-width: 768px){
+      
+        nav{
+          height: 180px;
+    
+        }
+      
+      
+        nav,
+        article,
+        body,
+      .coluna{
+        width: 100%;
+        min-width: 426px;
+      }
+      }
+      /*smarthphone*/
+      @media (max-width:425px){
+        nav{
+          height: 170px;
+        }
+
+        #geral{
+            padding: 10px 10px 10px 10px;
+        }
+
+
+       
+      
+        nav,
+        body,
+        article,
+        .coluna{
+          width: 100%;
+          min-width: 400px;
+      
+      
+        }
+      
+      }
+      
